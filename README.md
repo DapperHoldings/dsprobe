@@ -7,7 +7,6 @@ This system implements extended/unscented Kalman filters, fault detection, beaco
 
 🎯 Purpose & Vision
 
-The True Purpose
 Space navigation beyond Earth’s GPS relies on ground‑based tracking (e.g., NASA’s Deep Space Network) which introduces communication delays and single‑point failures. This project explores fully autonomous, beacon‑based navigation where a spacecraft locks onto natural or artificial “signposts” (pulsars, planets, relay satellites) to determine its position without Earth contact.
 
 The system serves as:
